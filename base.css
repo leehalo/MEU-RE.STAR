@@ -1,0 +1,16 @@
+::-webkit-scrollbar {
+    width: 0.4vw;
+    background-color: var(--cor6);
+}
+
+::-webkit-scrollbar-track{
+    background-color: var(--cor6);
+}
+
+span.gradient {
+    background: linear-gradient(90deg, #4C8647 25%, #8A78E0 40%, #2B7FFF 60%, #FA4236 80%, #F2901C 95%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
